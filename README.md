@@ -52,7 +52,8 @@ Here in this project i have folllowed 5 basic steps
      38.Urinary tract infection
      39.Psoriasis
      40.Impetigo
-        
+     
+ ---->    The output is predicted between 1 to 40. So please refer the numbers respective to the diseases.        
  ---->    So according to the symptoms the diseases can be easily predicted 
  ---->    The Algorithm i have chosen is LOGISTIC REGRESSION as it is a classification problem.
  
